@@ -35,4 +35,6 @@
 ### Let's Get Connected!
 
 <a href="https://www.linkedin.com/in/christopher-eatmon-b6a0aa17b/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/christopher-eatmon" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:eatmonchristopher1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <hr/>
