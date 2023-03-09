@@ -5,11 +5,9 @@
 
 <hr/>
 
-🔭 I’m currently working on a LinkedIn clone
+🔭 I’m currently working on a EverNote clone
 
-🌱 I’m currently learning SocketIO 
-
-📧 You can reach me @ stevenpicazo01@gmail.com
+📧 You can reach me @ eatmonchristopher1@gmail.com
 
 <p align="left">
 
