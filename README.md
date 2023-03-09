@@ -7,8 +7,6 @@
 
 🔭 I’m currently working on a EverNote clone
 
-📧 You can reach me @ eatmonchristopher1@gmail.com
-
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +29,8 @@
   <img src="https://img.shields.io/badge/Render-informational?style=for-the-badge&logo=render&logoColor=%5bdec3" />
 
 </p>
+
+**[![GitHub Streak](https://streak-stats.demolab.com?user=ChrisE1911&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=000000)](https://git.io/streak-stats)**
 
 ### Let's Get Connected!
 
