@@ -5,7 +5,11 @@
 
 <hr/>
 
-🔭 I’m currently working on a EverNote clone
+🔭 I'm a recent graduate from App Academy where I spent months learning about different technologies and how to create functional applications. Some of those technologies include JavaScript, Python, React/Redux, and SQL. Technology has been big for me ever since I was a little kid playing computer games. During my time at App Academy, I worked on both solo and collaborative projects which helped me understand and gain familiarity with the process of how applications are made and the time that goes into it. 
+
+Outside of software development, I like to workout, enjoy time with family and friends, watch/play sports (mainly basketball), and play games every now and then. 
+
+The thought of learning something new and expanding my knowledge always excites me. Especially when passion is added to the equation. Lets connect & Check out some of my code!
 
 <p align="left">
 
